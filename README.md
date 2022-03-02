@@ -12,5 +12,5 @@
 - ⚡ Fun fact: ...
 
 
-- ![My Image Profile](/hendra.png)
+- ![My Image Profile](/hendra.jpg)
 
