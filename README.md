@@ -1,9 +1,9 @@
 # Welcome To My Github Profile
 
 ### Hi there 👋
-- 👋 Hi, I’m hendra
+- 👋 Hi, I’m Hendra
 
-### Here are some ideas to get you started:
+### More About Me:
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning mobile app
 - 👯 I’m looking to collaborate on web development
