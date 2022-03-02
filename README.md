@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 Hi, I’m @hendra-Ti
+- 👋 Hi, I’m hendra
 
 ### Here are some ideas to get you started:
 - 🔭 I’m currently working on web development
