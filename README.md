@@ -8,9 +8,7 @@
 - 🤔 I’m looking for help with mobile app programming
 - 💬 Ask me about front end web development
 - 📫 connect on instagram : [Hendra](https://www.instagram.com/hendra_infotech)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Fun fact: coding so complicated
 
 
-- ![My Image Profile](/hendra.jpg)
-
+![My Image Profile](/hendra.jpg)
