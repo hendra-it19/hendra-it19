@@ -11,4 +11,4 @@
 - 😄 Fun fact: coding so complicated
 
 
-![My Image Profile](/hendra.jpg)
+![My Image Profile](/prev-img.png)
