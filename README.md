@@ -7,8 +7,10 @@
 - 👯 I’m looking to collaborate on web development
 - 🤔 I’m looking for help with mobile app programming
 - 💬 Ask me about front end web development
-- 📫 How to reach me: connect on instagram[Hendra](https://www.instagram.com/hendra_infotech)
+- 📫 connect on instagram : [Hendra](https://www.instagram.com/hendra_infotech)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ![responsive bottom navigation](/hendra.png)
+
+
+- ![My Image Profile](/hendra.png)
 
