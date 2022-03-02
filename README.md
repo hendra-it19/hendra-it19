@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on web development
 - 🤔 I’m looking for help with mobile app programming
 - 💬 Ask me about front end web development
-- 📫 connect on instagram : [Hendra](https://www.instagram.com/hendra_infotech)
+- 📫 connect on instagram : [hendra_infotech](https://www.instagram.com/hendra_infotech)
 - 😄 Fun fact: coding so complicated
 
 
