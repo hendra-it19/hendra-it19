@@ -16,8 +16,6 @@
 
 ![Repository's Stats](https://github-readme-stats.vercel.app/api?username=hendra-Ti19&show_icons=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hendra-Ti19&theme=blue-green)
-![GitHub Contributors Image](https://contrib.rocks/image?repo=hendra-Ti19/new-kalla-iams)
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hendra-Ti19)
-
-
 ![My Image Profile](/my.png)
