@@ -12,5 +12,6 @@
 - 📫 connect on instagram : [hendra_infotech](https://www.instagram.com/hendra_infotech)
 - 😄 Fun fact: coding so complicated
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?hendra_Ti19=hendra_Ti19&show_icons=true)
 
 ![My Image Profile](/my.png)
