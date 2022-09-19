@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on web development
 - 🤔 I’m looking for help with mobile app programming
 - 💬 Ask me about front fullstack web developer using laravel
-- 📫 connect on instagram : [hendra_infotech](https://www.instagram.com/hendra_infotech)
 - **😂 Here is a random joke that'll make you laugh!** <br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -19,7 +18,7 @@
 
 ## Most Used Language
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hendra-Ti19&theme=blue-green)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hendra-Ti19)
 
 ## Social Media
 
@@ -32,5 +31,4 @@
 ## Visitors
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hendra-Ti19)
-
 <img src="/my.png" width="300px" style="border-radius:10px"/>
