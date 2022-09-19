@@ -2,7 +2,6 @@
 
 ## Hi there 👋
 - 👋 Hi, I’m Hendra
-- View ![Profile View Counter](https://komarev.com/ghpvc/?username=hendra-Ti19)
 
 ## My Repository's Stats
 ![Repository's Stats](https://github-readme-stats.vercel.app/api?username=hendra-Ti19&show_icons=true)
@@ -24,4 +23,6 @@
 <a href="https://www.linkedin.com/in/hendra-4b4b561a5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <!-- ![My Image Profile](/my.png) -->
+<br>
+## Visitors ![Profile View Counter](https://komarev.com/ghpvc/?username=hendra-Ti19)
 <img src="/my.png" width="300px" style="border-radius:10px"/>
