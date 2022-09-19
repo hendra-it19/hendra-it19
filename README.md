@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning mobile app
 - 👯 I’m looking to collaborate on web development
 - 🤔 I’m looking for help with mobile app programming
-- 💬 Ask me about front end web development
+- 💬 Ask me about front fullstack web developer using laravel
 - 📫 connect on instagram : [hendra_infotech](https://www.instagram.com/hendra_infotech)
 - 😄 Fun fact: coding so complicated
 
