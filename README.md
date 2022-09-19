@@ -11,7 +11,13 @@
 - 💬 Ask me about front fullstack web developer using laravel
 - 📫 connect on instagram : [hendra_infotech](https://www.instagram.com/hendra_infotech)
 - 😄 Fun fact: coding so complicated
+- ## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![Repository's Stats](https://github-readme-stats.vercel.app/api?username=hendra-Ti19&show_icons=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hendra-Ti19&theme=blue-green)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=hendra-Ti19/new-kalla-iams)
+![Profile View Counter](https://komarev.com/ghpvc/?username=hendra-Ti19)
+
 
 ![My Image Profile](/my.png)
