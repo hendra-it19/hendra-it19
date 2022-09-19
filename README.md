@@ -28,10 +28,12 @@
 
 ## My Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username={hendra-Ti19}"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hendra-Ti19"/>
+
 
 <!-- ![My Image Profile](/my.png) -->
 ## Visitors
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hendra-Ti19)
+<br>
 <img src="/my.png" width="300px" style="border-radius:10px"/>
