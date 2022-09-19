@@ -14,7 +14,7 @@
 
 ## My Repository's Stats
 
-![Repository's Stats](https://github-readme-stats.vercel.app/api?username=hendra-Ti19&show_icons=true)
+![Repository's Stats](https://github-readme-stats.vercel.app/api?username=hendra-Ti19&show_icons=true&)
 
 ## Most Used Language
 
@@ -26,6 +26,9 @@
 <a href="https://www.linkedin.com/in/hendra-4b4b561a5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/hendra_infotech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
+## My Trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username={hendra-Ti19}"/>
 
 <!-- ![My Image Profile](/my.png) -->
 ## Visitors
