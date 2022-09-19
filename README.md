@@ -24,5 +24,7 @@
 
 <!-- ![My Image Profile](/my.png) -->
 <br>
-## Visitors ![Profile View Counter](https://komarev.com/ghpvc/?username=hendra-Ti19)
+## Visitors 
+![Profile View Counter](https://komarev.com/ghpvc/?username=hendra-Ti19)
+
 <img src="/my.png" width="300px" style="border-radius:10px"/>
