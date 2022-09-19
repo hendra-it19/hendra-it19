@@ -36,4 +36,4 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hendra-Ti19)
 <br>
-<img src="/my.png" width="300px" style="border-radius:10px"/>
+<!-- <img src="/my.png" width="300px" style="border-radius:10px"/> -->
