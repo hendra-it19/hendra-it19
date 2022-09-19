@@ -19,12 +19,15 @@
 - **😂 Here is a random joke that'll make you laugh!** <br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+## Social Media
 <a href="https://www.facebook.com/hendra.010419/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hendra-4b4b561a5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/hendra_infotech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
 
 <!-- ![My Image Profile](/my.png) -->
 <br>
 ## Visitors 
-![Profile View Counter](https://komarev.com/ghpvc/?username=hendra-Ti19)
+- ![Profile View Counter](https://komarev.com/ghpvc/?username=hendra-Ti19)
 
 <img src="/my.png" width="300px" style="border-radius:10px"/>
