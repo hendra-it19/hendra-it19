@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Hendra
 
 ## More About Me:
-- 🔭 I’m currently working on web development
+- 🔭 I’m a fullstack web developer | Laravel | tailwindcss,Bootstrap | vuejs 
 - 🌱 I’m currently learning mobile app
 - 👯 I’m looking to collaborate on web development
 - 🤔 I’m looking for help with mobile app programming
